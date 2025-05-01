@@ -19,22 +19,35 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Your awesome title
-email: your-email@example.com
+title: Analyzing Musical Instruments
+author: Megan Lavengood
+email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Course website for MUSI 810. Fall 2025.
 domain: instruments.meganlavengood.com
 url: "https://instruments.meganlavengood.com"
-baseurl: "/docs/" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+# baseurl: "/docs/" # the subpath of your site, e.g. /blog
+github_username:  meganlavengood
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-toc
+  - jekyll-spaceship
+
+# Jekyll-TOC
+toc:
+  min_level: 2
+  max_level: 3
+  ordered_list: true
+  no_toc_section_class: toc-container
+  list_id: toc
+  list_class: section-nav
+  sublist_class: 'toc-sublist'
+  item_class: toc-entry
+  item_prefix: toc-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,3 +68,68 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:year/:title:output_ext
+
+
+## Class/semester variables
+
+week1: "## Week 1 (Jan 15)"
+week2: "## Week 2 (Jan 22)"
+week3: "## Week 3 (Jan 29)"
+week4: "## Week 4 (Feb 5)"
+week5: "## Week 5 (Feb 12)"
+week6: "## Week 6 (Feb 19)"
+week7: "## Week 7 (Feb 26)"
+week8: "## Week 8 (Mar 4)"
+week9: "## Week 9 (Mar 11)"
+week10: "## Week 10 (Mar 18)"
+week11: "## Week 11 (Mar 25)"
+week12: "## Week 12 (Apr 1)"
+week13: "## Week 13 (Apr 8)"
+week14: "## Week 14 (Apr 15)"
+week15: "## Week 15 (Apr 22)"
+
+reading2: "### Reading due Tue, Jan 23\n\nSiedenberg and McAdams 2017"
+reading3: "### Reading due Tue, Jan 30\n\nFales 2002, Eidsheim and Whelden 2019"
+reading4: "### Reading due Tue, Feb 6\n\nDolan 2013, Rehding 2018"
+reading5: "### Reading due Tue, Feb 13\n\nWallmark 2019, Reymore 2021"
+reading6: "### Reading due Tue, Feb 20\n\nMcAdams et al 2022"
+reading7: "### Reading due Tue, Feb 27\n\nAnalysis symposium"
+reading8: "### Reading due Tue, Mar 5\n\nSPRING BREAK"
+reading9: "### Reading due Tue, Mar 12\n\nDuguay 2022, Hardman 2022"
+reading10: "### Reading due Tue, Mar 19\n\nProvenzano 2018, Malawey 2020"
+reading11: "### Reading due Tue, Mar 26\n\nLavengood 2020"
+reading12: "### Reading due Tue, Apr 2\n\nLavengood 2019"
+reading13: "### Reading due Tue, Apr 9\n\nWallmark 2018b, Neal 2018"
+
+homework1: "### Assignment due Fri, Jan 19"
+homework2: "### Assignment due Fri, Jan 26"
+homework3: "### Assignment due Fri, Feb 2"
+homework4: "### Assignment due Fri, Feb 9"
+homework5: "### Assignment due Fri, Feb 16"
+homework6: "### Assignment due Fri, Feb 23"
+homework7: "### Assignment due Fri, Mar 1"
+homework8: "### Assignment due Fri, Mar 8"
+homework9: "### Assignment due Fri, Mar 15"
+homework10: "### Assignment due Fri, Mar 22"
+homework11: "### Assignment due Fri, Mar 29"
+homework12: "### Assignment due Fri, Apr 5"
+homework13: "### Assignment due Fri, Apr 12"
+homework14: "### Assignment due Fri, Apr 19"
+homework15: "### Assignment due Fri, Apr 26"
+
+final-worksheet: "Fri, Apr 12"
+final-video: "Fri, Apr 19"
+final-peer: "Tue, Apr 23"
+final-early: "Mon, Apr 29"
+final-late: "Mon, May 6"
+final-range: "Apr 29–May 6"
+
+discussion3: ""
+discussion4: ""
+discussion5: ""
+discussion6: ""
+discussion9: ""
+discussion10: ""
+discussion13: ""
