@@ -6,21 +6,21 @@
     <div class="footer-col-wrapper">
       <div class="flex-row justify-center responsive">
         <div class="col">
-          MUSI 710
+          {{ site.courseno | escape }}
         </div>
         <div class="col">
 
           <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
-          Analysis of Timbre
+          {{ site.title | escape }}
         </div>
 
         <div class="col">
-          <a href="https://www.meganlavengood.com/teaching#recent-courses">Dr. Megan L. Lavengood</a>
+          <a href="https://www.meganlavengood.com/teaching#recent-courses">{{ site.author | escape }}</a>
         </div>
 
         <div class="col">
-          Spring 2024
+          {{ site.semester | escape }}
         </div>
 
       </div>
