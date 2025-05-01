@@ -36,6 +36,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-toc
   - jekyll-spaceship
+  - jekyll-scholar
+  
 
 # Jekyll-TOC
 toc:
@@ -69,7 +71,7 @@ toc:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: /:year/:title:output_ext
+# permalink: /:year/:title:output_ext
 
 
 ## Class/semester variables
