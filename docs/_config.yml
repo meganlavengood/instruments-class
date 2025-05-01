@@ -34,10 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-toc
-  - jekyll-spaceship
-  - jekyll-scholar
-  
 
 # Jekyll-TOC
 toc:
