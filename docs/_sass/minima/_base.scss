@@ -1,9 +1,22 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
   margin: 0;
   padding: 0;
 }
@@ -19,9 +32,9 @@ body {
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
   font-kerning: normal;
   display: flex;
   min-height: 100vh;
@@ -33,9 +46,19 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -46,7 +69,8 @@ ul, ol, dl, figure,
  * `main` element
  */
 main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: block;
+  /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 
@@ -64,12 +88,20 @@ img {
 /**
  * Figures
  */
-figure > img {
+figure>img {
   display: block;
+  margin: auto;
 }
 
 figcaption {
   font-size: $small-font-size;
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 1em;
+
+  i {
+    font-style: normal;
+  }
 }
 
 
@@ -77,13 +109,37 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul,
+ol {
   margin-left: $spacing-unit;
 }
 
+ol {
+  display: block;
+  background-color: $grey-color-dark;
+  padding: 2em 2em 2em 4em;
+}
+
 li {
-  > ul,
-  > ol {
+  margin-bottom: 1rem;
+
+  >ul,
+  >ol {
+    margin-bottom: 0;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+li>ol {
+  list-style-type: lower-alpha;
+  background-color: transparent;
+  padding: 0;
+  margin-top: 1rem;
+
+  li {
     margin-bottom: 0;
   }
 }
@@ -93,10 +149,22 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 800;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
 
 
 /**
@@ -104,15 +172,12 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: $brand-color;
-  text-decoration: none;
-
-  // &:visited {
-  //   color: darken($brand-color, 15%);
-  // } ML
+  text-decoration: underline;
+  text-decoration-style: dotted;
 
   &:hover {
     color: $brand-color-light;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
@@ -149,9 +214,9 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid $grey-color-dark;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #212121;
 }
 
 code {
@@ -162,7 +227,7 @@ pre {
   padding: 8px 12px;
   overflow-x: auto;
 
-  > code {
+  >code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
@@ -176,7 +241,7 @@ pre {
  */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
@@ -185,7 +250,7 @@ pre {
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
@@ -209,16 +274,16 @@ pre {
  */
 
 .svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #{$grey-color};
+  padding-right: 5px;
+  vertical-align: text-top;
 }
 
 .social-media-list {
-  li + li {
+  li+li {
     padding-top: 5px;
   }
 }
@@ -234,21 +299,27 @@ table {
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  // border: 1px solid $grey-color-light;
+
   // tr {
   //   &:nth-child(even) {
   //     background-color: lighten($grey-color-light, 6%);
   //   }
   // }
-  th, td {
+  th,
+  td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
-  th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
-  }
+
   td {
-    border: 1px solid $grey-color-light;
+    border-bottom: 1px solid darken($grey-color-light, 4%);
+  }
+
+  th {
+    // background-color: $grey-color-dark;
+    // border: 1px solid darken($grey-color-light, 4%);
+    border-bottom: 2px solid $brand-color;
+    background-color: transparent;
+    border-top: hidden;
   }
 }
