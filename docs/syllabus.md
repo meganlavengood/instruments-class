@@ -8,6 +8,8 @@ order: 4
 
 _Under construction_
 
+<div class="toc">
+
 ## Table of Contents <!-- omit in toc -->
 
 -   [Inclusivity in Learning](#inclusivity-in-learning)
@@ -34,6 +36,8 @@ _Under construction_
     -   [Generative AI](#generative-ai)
     -   [Common Course Policies](#common-course-policies)
     -   [Community Agreements](#community-agreements)
+
+</div>
 
 ---
 
