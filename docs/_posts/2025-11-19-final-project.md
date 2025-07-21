@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "Final Project"
-date:   2024-04-16 10:10:11 -0500
+title: "Final Project"
+date: 2025-11-19 10:10:11 -0500
 ---
 
-Your final project is an analysis of timbre/orchestration in a piece of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class.
+Your final project is a scholarly essay on a topic of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class.
 
-| Due date (end-of-day)                    | Assignment            |
-| ---------------------------------------- | --------------------- |
-| {{site.final-worksheet}}                 | [Project worksheet](#project-worksheet) |
-| {{site.final-video}}                     | [Video](#video)             |
-| {{site.final-peer}}                      | [Peer review](#peer-review)       |
-| {{site.final-range}}                     | [Essay](#essay)             |
+**Note:** I will continue to think about and develop the final project through the course of the class. Below are the final project guidelines for my last seminar (timbre analysis). This will give you an idea of what I typically expect but I will probably change this to some extent.
+
+---
+
+| Due date (end-of-day)    | Assignment                              |
+| ------------------------ | --------------------------------------- |
+| {{site.final-worksheet}} | [Project worksheet](#project-worksheet) |
+| {{site.final-video}}     | [Video](#video)                         |
+| {{site.final-peer}}      | [Peer review](#peer-review)             |
+| {{site.final-range}}     | [Essay](#essay)                         |
 
 ## Recommended reading
 
 If you want more explicit help and guidance on writing an analytical paper, read Chapter 7 of Rogers, Bottge & Haefeli 2020. This is available for you in the Readings folder on Teams. This chapter will teach you how to make sure your paper is unified and has a coherent argument.
 
---------
+---
 
 ## Project Worksheet
 
@@ -25,7 +29,7 @@ To get you started, I have designed a worksheet that helps you think through you
 
 Save as a PDF and upload to your **homework submit** folder by **{{site.final-worksheet}}.**
 
--------
+---
 
 ## Video
 
@@ -102,7 +106,7 @@ Peer review assignments will be posted to the General channel on Teams in a spre
 
 You will complete an evaluation using a form; this form will be made accessible as a tab in the General channel. The form asks you to answer the following questions:
 
-1.  In your own words, and without re-watching the video, do your best to summarize the main points of the video. _This will do two things: 1) help the author identify any discrepancies between what they thought they were saying, and what they seem like they are actually saying, and 2) help the author understand where you are coming from with your following comments._
+1.  In your own words, and without re-watching the video, do your best to summarize the main points of the video. *This will do two things: 1) help the author identify any discrepancies between what they thought they were saying, and what they seem like they are actually saying, and 2) help the author understand where you are coming from with your following comments.*
 2.  What was the most effective part of this video’s analysis? In other words, where did the analysis make you hear something differently, understand the piece better, or convince you of the argument?
 3.  Everything in your video and in your final project should relate clearly back to the thesis statement. Was there any point at which you weren’t sure why the information was being presented?
 4.  The final paper is longer than the script for these videos will be. In light of that, name one or two areas where you think the author can slow down, explain more, or go more in depth, to make the paper longer and more effective.
@@ -118,7 +122,7 @@ Complete the form on Teams by **{{ site.final-peer }}**.
 
 Your feedback will be graded on completion and counted as a homework grade.
 
-* * *
+---
 
 ## Essay
 
@@ -130,7 +134,7 @@ This is a music analysis paper. Some additional requirements and guidelines:
 
 -   Your music analysis must **rely on and deeply engage with** the analytical approaches we learned in class. This is the most important aspect of this paper, and therefore worth the most points in the rubric.
 -   Your paper should be bound together with a thesis statement of some kind, i.e., some kind of central feature that you discovered while analyzing the piece through your chosen methodology.
--   This is not a research paper; it is an analysis paper. Therefore, _if historical/cultural context directly enhances your central music-analytical thesis_, then you may include it. Otherwise, it is not necessary in this paper. It does not help your grade in any way—it’s just extra. And, if it's copied/paraphrased unattributed from Wikipedia or some other source (i.e., plagiarized), it can actually *hurt* your paper. So just skip it. 
+-   This is not a research paper; it is an analysis paper. Therefore, *if historical/cultural context directly enhances your central music-analytical thesis*, then you may include it. Otherwise, it is not necessary in this paper. It does not help your grade in any way—it’s just extra. And, if it's copied/paraphrased unattributed from Wikipedia or some other source (i.e., plagiarized), it can actually _hurt_ your paper. So just skip it.
 -   You should have chosen at least three aspects of the piece to focus on as examples which prove your thesis statement.
 -   Avoid qualitative language and irrelevant personal experience. The purpose of this paper is to show your understanding of the piece and the analytical techniques used, not to convince someone else to like the piece.
 -   Your tone and focus should be extremely similar to the readings we did throughout class.
@@ -203,7 +207,7 @@ This is a music analysis paper. Some additional requirements and guidelines:
 
 ### Helpful tips
 
--   Come talk with me one-on-one to improve your paper! Students who meet with me _always_ end up with better projects than students who do this on their own. I write a lot and have worked in a writing center, so I have a lot of wisdom about writing to share with you.
+-   Come talk with me one-on-one to improve your paper! Students who meet with me *always* end up with better projects than students who do this on their own. I write a lot and have worked in a writing center, so I have a lot of wisdom about writing to share with you.
 -   Begin your project by analyzing the music. Make your musical examples. Then, begin writing the paper by explaining your analysis. Write down the “low-hanging fruit” first to get the ball rolling so you’re not staring at a blank Word document.
 -   Read your paper out loud to another human being before you submit it. This is the fastest way to find weird grammatical errors that you made.
 -   Words and phrases to avoid: very, it, interesting, unique, thing, genius, “it is \_\_\_ that,” “some say,” “I believe,” “it seems.” Maybe also “to be.”

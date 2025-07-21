@@ -3,19 +3,19 @@ layout: default
 ---
 
 <div class="home">
-  <!-- <header class="post-header">
+  <header class="post-header">
   {%- if page.title -%}
 
   <h1 class="post-title">{{ page.title }}</h1>
   {% else %}
 </header>
-  {%- endif -%} -->
+  {%- endif -%}
 
   {{ content }}
 
-  <!-- {% assign sorted-posts = site.posts | sort: 'date' %} -->
+  {% assign sorted-posts = site.posts | sort: 'date' %}
 
-  <!-- <h2>Course Calendar</h2>
+  <h2>Course Calendar</h2>
 
   <ul>
     {% for post in site.posts reversed %}
@@ -25,4 +25,4 @@ layout: default
     {% endfor %}
   </ul>
 
-</div> -->
+</div>
