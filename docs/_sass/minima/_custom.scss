@@ -42,6 +42,7 @@ html {
 a.button {
     display: inline-block;
     display: block;
+    width: fit-content;
     font-size: 1.25rem;
     margin: 1em 1em;
     padding: 1em;
@@ -150,4 +151,21 @@ a.button-fill {
 
 li li {
     margin-bottom: 0;
+}
+
+h2:before {
+    content: "☷ ";
+    color: $brand-color;
+}
+
+@media (min-width:800px) {
+    h2:before {
+        position: relative;
+        left: -20px;
+        display: inline-block;
+    }
+    h2 {
+        position: relative;
+        left: -40px;
+    }
 }

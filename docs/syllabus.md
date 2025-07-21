@@ -196,7 +196,7 @@ If you use AI to generate text in a way that you believe is acceptable, you shou
 
 ### Common Course Policies
 
-<a class="btn btn-info" style="color: #333;" href="https://stearnscenter.gmu.edu/home/gmu-common-course-policies/" target="_blank" rel="noopener">View the Common Policy Addendum</a>
+<a class="button button-fill" href="https://stearnscenter.gmu.edu/home/gmu-common-course-policies/" target="_blank" rel="noopener">View the Common Policy Addendum</a>
 
 ### Community Agreements
 
