@@ -8,30 +8,30 @@ order: 4
 
 ## Table of Contents <!-- omit in toc -->
 
--   [Inclusivity in Learning](#inclusivity-in-learning)
-    -   [Content Warning](#content-warning)
--   [Instructor Info](#instructor-info)
-    -   [One-on-one appointments](#one-on-one-appointments)
--   [Course Information](#course-information)
-    -   [Meetings](#meetings)
-    -   [Goals](#goals)
-    -   [Organization and Modality](#organization-and-modality)
-    -   [Recommended Prerequisite](#recommended-prerequisite)
-    -   [Course Materials](#course-materials)
--   [Grading](#grading)
-    -   [Weighting](#weighting)
-    -   [Letter grades](#letter-grades)
--   [Assignment information](#assignment-information)
-    -   [Due Wednesday, 12PM EST: Reading response](#due-wednesday-12pm-est-reading-response)
-    -   [Due Sunday end of day: Written assignment](#due-sunday-end-of-day-written-assignment)
-    -   [Discussion leading responsibilities](#discussion-leading-responsibilities)
--   [Final project](#final-project)
--   [Policies](#policies)
-    -   [Late work](#late-work)
-    -   [Attendance](#attendance)
-    -   [Generative AI](#generative-ai)
-    -   [Common Course Policies](#common-course-policies)
-    -   [Community Agreements](#community-agreements)
+- [Inclusivity in Learning](#inclusivity-in-learning)
+  - [Content Warning](#content-warning)
+- [Instructor Info](#instructor-info)
+  - [One-on-one appointments](#one-on-one-appointments)
+- [Course Information](#course-information)
+  - [Meetings](#meetings)
+  - [Goals](#goals)
+  - [Organization and Modality](#organization-and-modality)
+  - [Recommended Prerequisite](#recommended-prerequisite)
+  - [Course Materials](#course-materials)
+- [Grading](#grading)
+  - [Weighting](#weighting)
+  - [Letter grades](#letter-grades)
+- [Assignment information](#assignment-information)
+  - [Due Wednesday, 12PM EST: Reading response](#due-wednesday-12pm-est-reading-response)
+  - [Due Sunday end of day: Written assignment](#due-sunday-end-of-day-written-assignment)
+  - [Discussion leading responsibilities](#discussion-leading-responsibilities)
+- [Final project](#final-project)
+- [Policies](#policies)
+  - [Late work](#late-work)
+  - [Attendance](#attendance)
+  - [Generative AI](#generative-ai)
+  - [Common Course Policies](#common-course-policies)
+  - [Community Agreements](#community-agreements)
 
 ---
 
@@ -56,12 +56,12 @@ Anyone should feel free to take a break from class at any point, and especially 
 -   **Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”
 -   **Email:** mlavengo@gmu.edu
 -   **Phone/text:** 703-993-6272 (this is a work number so don't worry about intruding)
--   **Office:** deLaski Performing Arts Building (PAB) A-421
+-   **Office:** deLaski Performing Arts Building (PAB) A-432
 -   **Communication:** I will answer emails within 24 hours Monday–Sunday. I am also happy to use Teams to chat with you in a channel or one-on-one.
 
 ### One-on-one appointments
 
--   You may drop in without an appointment during my **office hours**. Times TBD.
+-   You may drop in without an appointment during my **office hours**, which are Thursdays from 12:30–2:30 PM.
 -   If you like, [you can book time with me](https://meganlavengood.com/office-hours) to let me know that you'll be coming.
 -   If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
 -   If you are not available during my office hours, email me to schedule a special appointment time.
