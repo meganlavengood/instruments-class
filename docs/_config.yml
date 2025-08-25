@@ -69,7 +69,7 @@ toc:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# permalink: /:year/:title:output_ext
+permalink: /:year/:title:output_ext
 
 future: true
 
