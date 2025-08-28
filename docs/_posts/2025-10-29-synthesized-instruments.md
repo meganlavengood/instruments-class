@@ -9,30 +9,36 @@ I've saved (what is in my opinion) the best for last: synthesized instruments. S
 
 ---
 
-{{site.week10}}
+## Week 10
+
+### Reading due {{site.wed10}}
 
 {{site.reading10}}
 
-{{site.homework10}}
+### Homework due {{site.sun10}}
 
 TBD
 
 ---
 
-{{site.week11}}
+## Week 11
+
+### Reading due {{site.wed11}}
 
 {{site.reading11}}
 
-{{site.homework11}}
+### Homework due {{site.sun11}}
 
 TBD
 
 ---
 
-{{site.week12}}
+## Week 12
+
+### Reading due {{site.wed12}}
 
 {{site.reading12}}
 
-{{site.homework12}}
+### Homework due {{site.sun12}}
 
 TBD

@@ -19,7 +19,7 @@ Your final project is a scholarly essay on a topic of your choosing. The purpose
 
 ## Recommended reading
 
-If you want more explicit help and guidance on writing an analytical paper, read Chapter 7 of Rogers, Bottge & Haefeli 2020. This is available for you in the Readings folder on Teams. This chapter will teach you how to make sure your paper is unified and has a coherent argument.
+If you want more explicit help and guidance on writing an analytical paper, read Chapter 7 of Rogers, Bottge & Haefeli 2020. This is available through the library. Chapter 7 will teach you how to make sure your paper is unified and has a coherent argument.
 
 ---
 

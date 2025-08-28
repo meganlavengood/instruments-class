@@ -9,20 +9,24 @@ These readings focus on Western orchestral instruments and are thus perhaps more
 
 ---
 
-{{site.week3}}
+## Week 3
 
-{{site.reading3}}
+### Reading due {{site.wed03}}
 
-{{site.homework3}}
+{{site.reading03}}
+
+### Homework due {{site.sun03}}
 
 TBD
 
 ---
 
-{{site.week4}}
+## Week 4
 
-{{site.reading4}}
+### Reading due {{site.wed04}}
 
-{{site.homework4}}
+{{site.reading04}}
+
+### Homework due {{site.sun04}}
 
 TBD
