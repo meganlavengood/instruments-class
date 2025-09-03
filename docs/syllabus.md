@@ -22,7 +22,7 @@ order: 4
   - [Weighting](#weighting)
   - [Letter grades](#letter-grades)
 - [Assignment information](#assignment-information)
-  - [Due Wednesday, 12PM EST: Reading response](#due-wednesday-12pm-est-reading-response)
+  - [Due Wednesday, 12PM EST: Reading](#due-wednesday-12pm-est-reading)
   - [Due Sunday end of day: Written assignment](#due-sunday-end-of-day-written-assignment)
   - [Discussion leading responsibilities](#discussion-leading-responsibilities)
 - [Final project](#final-project)
@@ -129,7 +129,7 @@ Recommended (not required):
 
 You will have work due on most Wednesdays and Sundays of the semester.
 
-### Due Wednesday, 12PM EST: Reading response
+### Due Wednesday, 12PM EST: Reading
 
 Each week, you will be assigned one or two readings to complete before our synchronous meetings on Wednesday evenings.
 
