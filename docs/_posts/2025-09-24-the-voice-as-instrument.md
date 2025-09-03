@@ -13,7 +13,7 @@ The voice poses unique questions and perspectives for analysts.
 
 ### Reading due {{site.wed05}}
 
-{{site.reading05}}
+[{{site.reading05}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun05}}
 
@@ -25,7 +25,7 @@ TBD
 
 ### Reading due {{site.wed06}}
 
-{{site.reading06}}
+[{{site.reading06}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun06}}
 

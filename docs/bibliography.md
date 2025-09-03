@@ -15,26 +15,28 @@ All readings are either online and open-access, in which case you can simply cli
 
 Jump to:
 
--   [Readings calendar](#readings-calendar)
--   [Bibliography](#bibliography)
--   [More details](#more-details)
+- [Readings calendar](#readings-calendar)
+- [Bibliography](#bibliography)
+- [More details](#more-details)
 
 </div>
 
 ## Readings calendar
 
--   {{site.wed01}}: {{site.reading01}}
--   {{site.wed02}}: {{site.reading02}}
--   {{site.wed03}}: {{site.reading03}}
--   {{site.wed04}}: {{site.reading04}}
--   {{site.wed05}}: {{site.reading05}}
--   {{site.wed06}}: {{site.reading06}}
--   {{site.wed07}}: {{site.reading07}}
--   {{site.wed08}}: {{site.reading08}}
--   {{site.wed09}}: {{site.reading09}}
--   {{site.wed10}}: {{site.reading10}}
--   {{site.wed11}}: {{site.reading11}}
--   {{site.wed12}}: {{site.reading12}}
+| Week         | Readings               |
+| ------------ | ---------------------- | ------------------ |
+| {{site.wed01 | replace: "Wed, ", ""}} | {{site.reading01}} |
+| {{site.wed02 | replace: "Wed, ", ""}} | {{site.reading02}} |
+| {{site.wed03 | replace: "Wed, ", ""}} | {{site.reading03}} |
+| {{site.wed04 | replace: "Wed, ", ""}} | {{site.reading04}} |
+| {{site.wed05 | replace: "Wed, ", ""}} | {{site.reading05}} |
+| {{site.wed06 | replace: "Wed, ", ""}} | {{site.reading06}} |
+| {{site.wed07 | replace: "Wed, ", ""}} | {{site.reading07}} |
+| {{site.wed08 | replace: "Wed, ", ""}} | {{site.reading08}} |
+| {{site.wed09 | replace: "Wed, ", ""}} | {{site.reading09}} |
+| {{site.wed10 | replace: "Wed, ", ""}} | {{site.reading10}} |
+| {{site.wed11 | replace: "Wed, ", ""}} | {{site.reading11}} |
+| {{site.wed12 | replace: "Wed, ", ""}} | {{site.reading12}} |
 
 ---
 

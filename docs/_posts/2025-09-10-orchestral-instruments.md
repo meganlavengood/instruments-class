@@ -13,7 +13,7 @@ These readings focus on Western orchestral instruments and are thus perhaps more
 
 ### Reading due {{site.wed03}}
 
-{{site.reading03}}
+[{{site.reading03}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun03}}
 
@@ -25,7 +25,7 @@ TBD
 
 ### Reading due {{site.wed04}}
 
-{{site.reading04}}
+[{{site.reading04}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun04}}
 

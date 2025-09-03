@@ -13,7 +13,7 @@ I've saved (what is in my opinion) the best for last: synthesized instruments. S
 
 ### Reading due {{site.wed10}}
 
-{{site.reading10}}
+[{{site.reading10}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun10}}
 
@@ -25,7 +25,7 @@ TBD
 
 ### Reading due {{site.wed11}}
 
-{{site.reading11}}
+[{{site.reading11}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun11}}
 
@@ -37,7 +37,7 @@ TBD
 
 ### Reading due {{site.wed12}}
 
-{{site.reading12}}
+[{{site.reading12}}](/bibliography/#bibliography)
 
 ### Homework due {{site.sun12}}
 
