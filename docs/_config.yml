@@ -33,6 +33,8 @@ github_username:  meganlavengood
 
 # Build settings
 
+destination: docs/
+
 theme: minima
 plugins:
   - jekyll-feed
