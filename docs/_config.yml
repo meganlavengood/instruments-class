@@ -28,7 +28,7 @@ courseno: MUSI 810
 semester: Fall 2025
 domain: instruments.meganlavengood.com
 url: "https://instruments.meganlavengood.com"
-# baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  meganlavengood
 
 # Build settings
