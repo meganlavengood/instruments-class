@@ -34,7 +34,7 @@ github_username:  meganlavengood
 
 # Build settings
 
-destination: /
+destination: /docs
 
 theme: minima
 plugins:
