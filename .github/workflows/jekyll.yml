@@ -45,6 +45,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Bundle install
+        working-directory: ./docs
         run: bundle install
       - name: Build with Jekyll
         working-directory: ./docs
