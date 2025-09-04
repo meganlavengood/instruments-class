@@ -34,7 +34,7 @@ github_username:  meganlavengood
 
 # Build settings
 
-destination: https://instruments.meganlavengood.com
+destination: /
 
 theme: minima
 plugins:
