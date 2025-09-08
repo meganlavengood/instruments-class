@@ -40,7 +40,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+  - jekyll-scholar
+  - jekyll-toc
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+  
 # Jekyll-TOC
 toc:
   min_level: 2
@@ -78,6 +85,8 @@ permalink: /:year/:title:output_ext
 future: true
 
 ## Class/semester variables
+
+year: 2025
 
 mon01: "Mon, Aug 25"
 mon02: "Mon, Sep 1"
@@ -149,3 +158,7 @@ final-peer: "Wed, Dec 3"
 final-early: "Mon, Dec 8"
 final-late: "Mon, Dec 15"
 final-range: "Dec 8–Dec 15"
+
+
+
+

@@ -11,7 +11,7 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit: 30px !default;
 
-$text-color: #D7D7D7 !default;
+$text-color: #d7d7d7 !default;
 $background-color: #111111 !default;
 $brand-color: #e6a500 !default;
 $brand-color-light: lighten($brand-color, 20%) !default;
@@ -23,6 +23,7 @@ $grey-color-dark: darken($grey-color, 25%) !default;
 
 $box-shadow: 2px 2px 2px #111111 !default;
 
+$border: 3px dashed $brand-color;
 
 $table-text-align: left !default;
 
@@ -40,18 +41,14 @@ $on-laptop: 800px !default;
 //   }
 // }
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
+	@media screen and (max-width: $device) {
+		@content;
+	}
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+	font-size: $base-font-size * $ratio;
 }
 
 // Import partials.
-@import "minima/base",
-"minima/layout",
-"minima/syntax-highlighting",
-"minima/custom"
-;
+@import "minima/base", "minima/layout", "minima/syntax-highlighting", "minima/custom";

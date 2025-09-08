@@ -3,6 +3,7 @@ layout: post
 title: "Synthesized Instruments"
 title-prefix: "Weeks 10–12"
 date: 2025-10-29 10:10:11 -0500
+toc: true
 ---
 
 I've saved (what is in my opinion) the best for last: synthesized instruments. Synthesizers are one of my main research interests.

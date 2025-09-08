@@ -10,7 +10,14 @@ layout: default
       {% endif %}
       {{ page.title }}</h1>
   </header>
-
+<div>
+  {% if page.toc == true %}
+    <div id="toc-container">
+      <h2>Table of Contents</h2>
+      {% toc %}
+    </div>
+    <hr>
+  {% endif %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

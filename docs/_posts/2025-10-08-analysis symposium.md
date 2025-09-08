@@ -3,6 +3,7 @@ layout: post
 title: "Analysis Symposium"
 title-prefix: "Week 7"
 date: 2025-10-08 10:10:11 -0500
+toc: false
 ---
 
 ## {{site.wed07}}: Analysis Symposium

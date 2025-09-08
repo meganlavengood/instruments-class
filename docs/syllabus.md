@@ -6,6 +6,7 @@ menu: true
 order: 4
 ---
 
+<div id="toc-container" markdown="1">
 ## Table of Contents <!-- omit in toc -->
 
 - [Inclusivity in Learning](#inclusivity-in-learning)
@@ -32,6 +33,8 @@ order: 4
   - [Generative AI](#generative-ai)
   - [Common Course Policies](#common-course-policies)
   - [Community Agreements](#community-agreements)
+
+</div>
 
 ---
 
@@ -154,7 +157,6 @@ A discussion leader should:
     -   A favorite sentence/paragraph and why you liked it
     -   Important conclusions
 -   Have a few discussion questions prepared
--   Interact with the guest expert (if there is one in attendance)
 
 If you do each of these things satisfactorily, you will get an A. **Please note that you are not lecturing or presenting on the reading.** You are _leading discussion_, which means your primary goal is to get the class to discuss and participate.
 
@@ -162,9 +164,9 @@ If you do each of these things satisfactorily, you will get an A. **Please note 
 
 Your final project is a scholarly essay on a project of your own choosing (e.g., an analysis of a piece of music or otherwise supporting a scholarly argument with evidence).
 
-The final project has two components: a video and a final paper. More details are forthcoming.
+The final project has two components: a video and a final paper.
 
-<!-- [Read more details about the final project](../{{site.year}}/final-project). -->
+[Read more details about the final project](../{{site.year}}/final-project).
 
 ## Policies
 
