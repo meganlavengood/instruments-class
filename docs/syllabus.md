@@ -157,6 +157,7 @@ A discussion leader should:
     -   A favorite sentence/paragraph and why you liked it
     -   Important conclusions
 -   Have a few discussion questions prepared
+-   [if possible] Have their instrument handy to illustrate answers to questions, etc. (I acknowledge there are many reasons this may not be practical and won't hold it against you if you can't make it happen!)
 
 If you do each of these things satisfactorily, you will get an A. **Please note that you are not lecturing or presenting on the reading.** You are _leading discussion_, which means your primary goal is to get the class to discuss and participate.
 
