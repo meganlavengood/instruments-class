@@ -31,9 +31,9 @@ If you try for a while but don't succeed at finding anything interesting, you co
 ### Reading due {{site.wed04}}
 
 -   {% reference gotham_pitch_2016 %}
-    -   Discussion leader: Matthew
--   {% reference cole_hands_2024 %}
     -   Discussion leader: Victoria
+-   {% reference cole_hands_2024 %}
+    -   Discussion leader: Matthew
 
 ### Homework due {{site.sun04}}
 
