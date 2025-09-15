@@ -15,34 +15,33 @@ All readings are either online and open-access, in which case you can simply cli
 
 Jump to:
 
-- [Readings calendar](#readings-calendar)
-- [Bibliography](#bibliography)
-- [More details](#more-details)
+-   [Readings calendar](#readings-calendar)
+-   [Bibliography](#bibliography)
+-   [More details](#more-details)
 
 </div>
 
 ## Readings calendar
 
-| Week         | Readings               |
-| ------------ | ---------------------- | ------------------ |
-| {{site.wed01 | replace: "Wed, ", ""}} | {{site.reading01}} |
-| {{site.wed02 | replace: "Wed, ", ""}} | {{site.reading02}} |
-| {{site.wed03 | replace: "Wed, ", ""}} | {{site.reading03}} |
-| {{site.wed04 | replace: "Wed, ", ""}} | {{site.reading04}} |
-| {{site.wed05 | replace: "Wed, ", ""}} | {{site.reading05}} |
-| {{site.wed06 | replace: "Wed, ", ""}} | {{site.reading06}} |
-| {{site.wed07 | replace: "Wed, ", ""}} | {{site.reading07}} |
-| {{site.wed08 | replace: "Wed, ", ""}} | {{site.reading08}} |
-| {{site.wed09 | replace: "Wed, ", ""}} | {{site.reading09}} |
-| {{site.wed10 | replace: "Wed, ", ""}} | {{site.reading10}} |
-| {{site.wed11 | replace: "Wed, ", ""}} | {{site.reading11}} |
-| {{site.wed12 | replace: "Wed, ", ""}} | {{site.reading12}} |
+| Week         | Readings              | Discussion leader(s)                                                         |
+| ------------ | --------------------- | ---------------------------------------------------------------------------- | -------------------- |
+| {{site.wed01 | replace: "Wed, ",""}} | {% cite theberge_musical_2017 %}<br/>{% cite bates_actor-network_2018 %}     |                      |
+| {{site.wed02 | replace: "Wed, ",""}} | {% cite tresch_toward_2013 %}<br/>{% cite wright_picked_2024 %}              |                      |
+| {{site.wed03 | replace: "Wed, ",""}} | {% cite le_guin_cello-and-bow_2006 %}<br>{% cite de_souza_beethovens_2017 %} | <br/>Yechan          |
+| {{site.wed04 | replace: "Wed, ",""}} | {% cite gotham_pitch_2016 %}<br/>{% cite cole_hands_2024 %}                  | Victoria<br/>Matthew |
+| {{site.wed05 | replace: "Wed, ",""}} | {% cite eidsheim_maria_2017 %}<br/>{% cite malawey_quality_2020 %}           | Huijie<br/>Julianna  |
+| {{site.wed06 | replace: "Wed, ",""}} | {% cite duguay_analyzing_2022 %}<br/>{% cite barna_vocal_2024 %}             |                      |
+| {{site.wed08 | replace: "Wed, ",""}} | {% cite easley_riff_2015 %}<br/>{% cite burns_together_2019 %}               | <br/>Chris           |
+| {{site.wed09 | replace: "Wed, ",""}} | {% cite koozin_guitar_2024 %}<br/>{% cite koozin_guitar_2024-1 %}            | Michael<br/>         |
+| {{site.wed10 | replace: "Wed, ",""}} | {% cite theberge_any_1997 %}<br/>{% cite pinch_analog_2004 %}                | Judith<br/> &nbsp;   |
+| {{site.wed11 | replace: "Wed, ",""}} | {% cite lavengood_timbre_2019 %}<br/>{% cite burke_hard_2024 %}              | <br/>Ashley          |
+| {{site.wed12 | replace: "Wed, ",""}} | {% cite eidsheim_race_2019 %}<br/>{% cite galuszka_influence_2025 %}         | Brittany<br/>Trey    |
 
 ---
 
 ## Bibliography
 
-<div>{%- include bibliography.html -%}</div>
+{% bibliography | doi_linkify %}
 
 ---
 

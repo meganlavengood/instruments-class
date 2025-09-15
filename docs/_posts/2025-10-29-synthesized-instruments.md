@@ -14,7 +14,9 @@ I've saved (what is in my opinion) the best for last: synthesized instruments. S
 
 ### Reading due {{site.wed10}}
 
-[{{site.reading10}}](/bibliography/#bibliography)
+-   {% reference theberge_any_1997 %}
+    -   Discussion leader: Judith
+-   {% reference pinch_analog_2004 %}
 
 ### Homework due {{site.sun10}}
 
@@ -26,7 +28,9 @@ TBD
 
 ### Reading due {{site.wed11}}
 
-[{{site.reading11}}](/bibliography/#bibliography)
+-   {% reference lavengood_timbre_2019 %}
+-   {% reference burke_hard_2024 %}
+    -   Discussion leader: Ashley
 
 ### Homework due {{site.sun11}}
 
@@ -38,7 +42,10 @@ TBD
 
 ### Reading due {{site.wed12}}
 
-[{{site.reading12}}](/bibliography/#bibliography)
+-   {% reference eidsheim_race_2019 %}
+    -   Discussion leader: Britt
+-   {% reference galuszka_influence_2025 %}
+    -   Discussion leader: Trey
 
 ### Homework due {{site.sun12}}
 

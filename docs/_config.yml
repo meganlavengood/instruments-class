@@ -60,6 +60,15 @@ toc:
   item_class: toc-entry
   item_prefix: toc-
 
+scholar:
+  bibliography: instruments-class.bib
+  style: chicago-author-date
+  bibtex_filters:
+    - latex
+    - HtmlLinks
+    - DOILinks
+  sort_by: author
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -135,22 +144,6 @@ sun12: "Sun, Nov 16"
 sun13: "Sun, Nov 23"
 sun14: "Sun, Nov 30"
 sun15: "Sun, Dec 7"
-
-reading01: "Théberge 2017<br/>Bates 2018"
-reading02: "Tresch and Dolan 2013<br/>Wright 2024 Ch. 4"
-reading03: "Le Guin 2006<br/>De Souza 2017 (discussion leader: Yechan)"
-reading04: "Gotham and Gunn 2016 (discussion leader: Victoria)<br/>Cole 2024 (discussion leader: Matthew)"
-reading05: "Eidsheim 2017 (discussion leader: Huijie)<br/>Malawey 2020 (discussion leader: Julianna)"
-reading06: "Duguay 2022<br/>Barna and McLaughlin 2024"
-reading07: "None"
-reading08: "Easley 2015<br/>Burns 2019 (discussion leader: Chris)"
-reading09: "Koozin 2024 ch. 1 and ch. 2 (discussion leader: Michael)"
-reading10: "Théberge 1997 (discussion leader: Judith)<br/>Pinch and Trocco 2004"
-reading11: "Lavengood 2019<br/>Burke 2024 (discussion leader: Ashley)"
-reading12: "Eidsheim 2019 (discussion leader: Brittany)<br/>Galuszka 2025 (discussion leader: Trey)"
-reading13: "None"
-reading14: "None"
-reading15: "None"
 
 final-worksheet: "Wed, Nov 19"
 final-video: "Sun, Nov 30"
