@@ -37,4 +37,8 @@ If you try for a while but don't succeed at finding anything interesting, you co
 
 ### Homework due {{site.sun04}}
 
-TBD
+In last week's assignment, many of you investigated a piece of music with particular technical difficulties. I'd like you to expand on these anaylses by incorporating more traditional music analysis: things like phrase analysis, hypermeter, harmonic analysis, form analysis, etc. that you may have learned in other theory classes. How does your technical analysis align with your music-theory analysis?
+
+[If you did not engage in that kind of resposne last week, instead, submit a reading response in whatever format you like.]
+
+Save as a PDF, begin your filename with `04`, and upload to `homework submit`.
