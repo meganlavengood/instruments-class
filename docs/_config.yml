@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Analyzing Musical Instruments
 author: Dr. Megan L. Lavengood
 email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
- Course website for MUSI 810. Fall 2025.
+    Course website for MUSI 810. Fall 2025.
+
 courseno: MUSI 810
 semester: Fall 2025
 domain: instruments.meganlavengood.com
 url: "https://instruments.meganlavengood.com"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # repository: meganlavengood/instruments-class
-github_username:  meganlavengood
+github_username: meganlavengood
 
 # Build settings
 
@@ -38,36 +38,37 @@ github_username:  meganlavengood
 
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-scholar
-  - jekyll-toc
+    - jekyll-feed
+    - jekyll-remote-theme
+    - jekyll-scholar
+    - jekyll-toc
+    - jekyll-spaceship
 defaults:
-  - scope:
-      path: ""
-    values:
-      toc: true
-  
+    - scope:
+          path: ""
+      values:
+          toc: true
+
 # Jekyll-TOC
 toc:
-  min_level: 2
-  max_level: 3
-  ordered_list: true
-  no_toc_section_class: toc-container
-  list_id: toc
-  list_class: section-nav
-  sublist_class: 'toc-sublist'
-  item_class: toc-entry
-  item_prefix: toc-
+    min_level: 2
+    max_level: 3
+    ordered_list: true
+    no_toc_section_class: toc-container
+    list_id: toc
+    list_class: section-nav
+    sublist_class: "toc-sublist"
+    item_class: toc-entry
+    item_prefix: toc-
 
 scholar:
-  bibliography: instruments-class.bib
-  style: chicago-author-date
-  bibtex_filters:
-    - latex
-    - HtmlLinks
-    - DOILinks
-  sort_by: author
+    bibliography: instruments-class.bib
+    style: chicago-author-date
+    bibtex_filters:
+        - latex
+        - HtmlLinks
+        - DOILinks
+    sort_by: author
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -151,7 +152,3 @@ final-peer: "Wed, Dec 3"
 final-early: "Mon, Dec 8"
 final-late: "Mon, Dec 15"
 final-range: "Dec 8–Dec 15"
-
-
-
-
