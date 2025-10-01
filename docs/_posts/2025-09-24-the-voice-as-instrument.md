@@ -42,3 +42,5 @@ Write 250–500 words on your findings, save as a PDF beginning with `05`, and u
 ### Homework due {{site.sun06}}
 
 Prepare for the [Analysis Symposium](/2025/analysis-symposium)!
+
+If you think you might be interested in using some technological tools to aid your analysis, you might check out [my guide to setting up Sonic Visualiser](https://timbreclass.meganlavengood.com/2024/vocal-timbre.html) that I wrote up for last year's timbre seminar. [Sonic Visualiser](https://sonicvisualiser.org) is very powerful, but rather user-unfriendly, just to warn you.
