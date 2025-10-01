@@ -41,6 +41,4 @@ Write 250–500 words on your findings, save as a PDF beginning with `05`, and u
 
 ### Homework due {{site.sun06}}
 
-Analyze some part of the vocals of “you should see me in a crown” by Billie Eilish (2018). Your work should be inspired by Duguay {% cite duguay_analyzing_2022 -A %} and Barna {% cite barna_vocal_2024 -A %} but doesn’t need to strictly adhere (especially in Duguay’s case, since she uses a lot of special software). I have provided .mp3 files of the original and of an isolated vocal track I created using Izotope RX (as suggested by Duguay) on Teams.
-
-Write 250–500 words on your findings, save as a PDF beginning with `06`, and upload to your `homework submit` folder.
+Prepare for the [Analysis Symposium](/2025/analysis-symposium)!
