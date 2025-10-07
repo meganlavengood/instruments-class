@@ -26,15 +26,16 @@ TBD
 
 ## Week 11
 
-### Reading due {{site.wed11}}
+We won't be having class on {{site.wed11}} because I'll be traveling to Minneapolis for the annual [Society for Music Theory conference](https://minneapolis2025.ams-smt.org)! Instead I'll ask us to do kind of virtual, asynchronous class session.
 
--   {% reference lavengood_timbre_2019 %}
--   {% reference burke_hard_2024 %}
-    -   Discussion leader: Ashley
+### Reading and homework due {{site.wed11}}
 
-### Homework due {{site.sun11}}
+-   Read {% reference lavengood_timbre_2019 %}.
+-   Post one (1) question **for me to answer** on Teams. I've made a special channel for this called "Lavengood Sonic 3 discussion". I'll do my best to answer these quickly or when I have downtime at the conference.
 
-TBD
+### Homework due {{site.sun10}}
+
+-   Post at least twice more in the "Lavengood Sonic 3 discussion" channel, either as a reply to my reply or to another student. Please try to make your comments substantive, not just "nice job!" or "I agree!" Try to make it something equivalent to having participated in a normal class session.
 
 ---
 
