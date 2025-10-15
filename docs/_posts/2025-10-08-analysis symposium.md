@@ -94,7 +94,7 @@ Some selected recording links:
 -   [Live on a TV show](https://www.youtube.com/watch?v=MHNzwtuBTjE&list=RDMHNzwtuBTjE&start_radio=1)
 -   [Live at Austin City Limits](https://www.youtube.com/watch?v=7xEjr39yYuo&list=RD7xEjr39yYuo&start_radio=1)
 
-### Option 2: Jennifer Higdon, _Love Sweet_ (2015), specific movement TBD
+### Option 2: Jennifer Higdon, _Love Sweet_ (2015), i. "Apology"
 
 I'm working on getting the score for this piece from the library via ILL, and I'll post on Teams when I've gotten it.
 
