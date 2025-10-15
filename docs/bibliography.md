@@ -31,8 +31,8 @@ Jump to:
 | {{site.wed04 | replace: "Wed, ",""}} | {% cite gotham_pitch_2016 %}<br/>{% cite cole_hands_2024 %}                  | Victoria<br/>Matthew |
 | {{site.wed05 | replace: "Wed, ",""}} | {% cite eidsheim_maria_2017 %}<br/>{% cite malawey_quality_2020 %}           | Huijie<br/>Julianna  |
 | {{site.wed06 | replace: "Wed, ",""}} | {% cite duguay_analyzing_2022 %}<br/>{% cite barna_vocal_2024 %}             |                      |
-| {{site.wed08 | replace: "Wed, ",""}} | {% cite easley_riff_2015 %}<br/>{% cite burns_together_2019 %}               | <br/>Chris           |
-| {{site.wed09 | replace: "Wed, ",""}} | {% cite stadnicki_shake_2021 %}<br/>{% cite smith_meaning_2021 %}            | Ashley<br/>Michael   |
+| {{site.wed08 | replace: "Wed, ",""}} | {% cite stadnicki_shake_2021 %}<br/>{% cite smith_meaning_2021 %}            | Ashley<br/>Michael   |
+| {{site.wed09 | replace: "Wed, ",""}} | {% cite easley_riff_2015 %}<br/>{% cite burns_together_2019 %}               | <br/>Chris           |
 | {{site.wed10 | replace: "Wed, ",""}} | {% cite theberge_any_1997 %}<br/>{% cite pinch_analog_2004 %}                | Judith<br/> &nbsp;   |
 | {{site.wed11 | replace: "Wed, ",""}} | {% cite lavengood_timbre_2019 %}<br/>{% cite burke_hard_2024 %}              |                      |
 | {{site.wed12 | replace: "Wed, ",""}} | {% cite eidsheim_race_2019 %}<br/>{% cite galuszka_influence_2025 %}         | Brittany<br/>Trey    |
