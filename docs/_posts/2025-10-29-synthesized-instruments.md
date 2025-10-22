@@ -20,7 +20,7 @@ I've saved (what is in my opinion) the best for last: synthesized instruments. S
 
 ### Homework due {{site.sun10}}
 
-TBD
+Write a short response (~500 words) to this week's readings, discussing how the tension between human vs. machine, analog vs. digital, nostalgia, etc. plays out in your own instrumental world.
 
 ---
 
