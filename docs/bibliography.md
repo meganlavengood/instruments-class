@@ -15,9 +15,9 @@ All readings are either online and open-access, in which case you can simply cli
 
 Jump to:
 
--   [Readings calendar](#readings-calendar)
--   [Bibliography](#bibliography)
--   [More details](#more-details)
+- [Readings calendar](#readings-calendar)
+- [Bibliography](#bibliography)
+- [More details](#more-details)
 
 </div>
 
@@ -33,7 +33,7 @@ Jump to:
 | {{site.wed06 | replace: "Wed, ",""}} | {% cite duguay_analyzing_2022 %}<br/>{% cite barna_vocal_2024 %}             |                      |
 | {{site.wed08 | replace: "Wed, ",""}} | {% cite stadnicki_shake_2021 %}<br/>{% cite smith_meaning_2021 %}            | Ashley<br/>Michael   |
 | {{site.wed09 | replace: "Wed, ",""}} | {% cite easley_riff_2015 %}<br/>{% cite burns_together_2019 %}               | <br/>Chris           |
-| {{site.wed10 | replace: "Wed, ",""}} | {% cite theberge_any_1997 %}<br/>{% cite pinch_analog_2004 %}                | Judith<br/> &nbsp;   |
+| {{site.wed10 | replace: "Wed, ",""}} | {% cite theberge_live_1997 %}<br/>{% cite pinch_shaping_2004 %}                | Judith<br/> &nbsp;   |
 | {{site.wed11 | replace: "Wed, ",""}} | {% cite lavengood_timbre_2019 %}<br/>{% cite burke_hard_2024 %}              |                      |
 | {{site.wed12 | replace: "Wed, ",""}} | {% cite eidsheim_race_2019 %}<br/>{% cite galuszka_influence_2025 %}         | Brittany<br/>Trey    |
 

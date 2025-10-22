@@ -14,9 +14,9 @@ I've saved (what is in my opinion) the best for last: synthesized instruments. S
 
 ### Reading due {{site.wed10}}
 
--   {% reference theberge_any_1997 %}
+-   {% reference theberge_live_1997 %}
     -   Discussion leader: Judith
--   {% reference pinch_analog_2004 %}
+-   {% reference pinch_shaping_2004 %}
 
 ### Homework due {{site.sun10}}
 
