@@ -28,6 +28,8 @@ Write a short response (~500 words) to this week's readings, discussing how the 
 
 We won't be having class on {{site.wed11}} because I'll be traveling to Minneapolis for the annual [Society for Music Theory conference](https://minneapolis2025.ams-smt.org)! Instead I'll ask us to do kind of virtual, asynchronous class session.
 
+If you are interested in the conference (it's cool! if you like music theory!), you can pop into the [free livestreamed sessions](https://docs.google.com/spreadsheets/d/1LKCJoYjstjG5xFiL8fUttvmGATtiB_RAg8CDuHX1N-U/edit?gid=0#gid=0). The conference runs Nov 6–9. **Important note: the times are given in CST because the conference is in Minneapolis, so subtract one hour to get to EST.** Another video game paper is ["Tracing Percussion Orchestration in Early NES Soundtracks (1983-1987): Understanding Coded Parameters Through FFT Analysis"](https://www.conftool.pro/minneapolis2025-ams-smt/index.php?page=browseSessions&form_session=304), and the two sessions on Expression in Vocal Music are also relevant to our seminar topic.
+
 ### Reading and homework due {{site.wed11}}
 
 -   Read {% reference lavengood_timbre_2019 %}.
