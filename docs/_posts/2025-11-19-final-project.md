@@ -4,9 +4,7 @@ title: "Final Project"
 date: 2025-11-19 10:10:11 -0500
 ---
 
-Your final project is a scholarly essay on a topic of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class.
-
-**Note:** I will continue to think about and develop the final project through the course of the class. Below are the final project guidelines for my last seminar (timbre analysis). This will give you an idea of what I typically expect but I will probably change this to some extent.
+Your final project is a scholarly essay on a piece of music or instrument of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class.
 
 ---
 
@@ -27,13 +25,15 @@ If you want more explicit help and guidance on writing an analytical paper, read
 
 To get you started, I have designed a worksheet that helps you think through your project. I have added a copy of the worksheet to your homework submit folder. The filename is `13 final project worksheet.docx`.
 
+Note that if you are choosing _not_ to focus on a close analysis of a piece of music, the questions on the worksheet won't totally fit your project. Adjust the questions as you need to make them applicable to your work. Please contact me if you are unsure how to proceed.
+
 Save as a PDF and upload to your **homework submit** folder by **{{site.final-worksheet}}.**
 
 ---
 
 ## Video
 
-Make a video (**max 10 minutes**) in which you apply knowledge you gained in our seminar to a song of your choosing. It is worth 15% of your final grade.
+Make a video (**max 10 minutes**) in which you apply knowledge you gained in our seminar to a piece or instrument of your choosing. It is worth 15% of your final grade.
 
 The video will be like a first draft of your final paper. This will be an opportunity for you to get feedback from me and your peers.
 
@@ -42,10 +42,10 @@ The video will be like a first draft of your final paper. This will be an opport
 -   Use the worksheet you submitted and my feedback as a guide for your content. However, your video should go deeper than your worksheet. You should have specific analysis by this point.
 -   Analysis must engage with one or more methodologies discussed in class. This is where the majority of the points are—failure to do this will certainly result in a poor grade.
 -   You should have a clear thesis statement in your video, and all your analysis should tie into the thesis statement.
--   Your video should be, at most, 10 minutes long. This correlates to about five double-spaced pages of writing. It’s really not much so make sure you’re tightly organized. I suggest taking on only one of your three examples/facts (referenced in the prep worksheet).
--   Please make sure I have access to all necessary material to understand your paper (files or links for relevant video/audio, transcriptions, etc.).
+-   Your video should be, at most, 10 minutes long. This correlates to about five double-spaced pages of writing. It’s really not much, so make sure you’re tightly organized. I suggest taking on only one of your three examples/facts (referenced in the prep worksheet).
+-   Please make sure I have access to all necessary material to understand your paper (files or links for relevant video/audio/images, transcriptions, etc.).
 -   You should have a powerpoint presentation or some other comparable visuals.
--   **This video is too short to include historical context—get straight to your analysis!** Historical context will not help your grade and will only give you less space to present.
+-   **Do not spend time on background information—get straight to your analysis!** Extra context will not help your grade and will only give you less space to present.
 
 ### Style
 
@@ -62,6 +62,7 @@ The video will be like a first draft of your final paper. This will be an opport
 
 ### Video grading rubric
 
+<div class="overflow-auto">
 <table id="video-rubric" class="two-header-columns">
 <thead>
 <tr class="row-1 odd">
@@ -95,6 +96,7 @@ The video will be like a first draft of your final paper. This will be an opport
 </tr>
 </tbody>
 </table>
+</div>
 
 ## Peer review
 
@@ -168,7 +170,8 @@ This is a music analysis paper. Some additional requirements and guidelines:
 
 ### Final Paper grading rubric
 
-<table id="final-paper" class="two-header-columns">
+<div class="overflow-auto">
+	<table id="final-paper" class="two-header-columns">
 <thead>
 <tr class="row-1 odd">
 	<th class="column-1"></th><th class="column-2"></th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
@@ -204,6 +207,7 @@ This is a music analysis paper. Some additional requirements and guidelines:
 </tr>
 </tbody>
 </table>
+</div>
 
 ### Helpful tips
 
