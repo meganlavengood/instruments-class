@@ -56,4 +56,4 @@ If you are interested in the conference (it's cool! if you like music theory!), 
 
 ### Homework due {{site.sun12}}
 
-TBD
+None—get started on your [final project worksheet](/2025/final-project).
