@@ -155,7 +155,7 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
-  jekyll-scholar (~> 7.2.1)
+  jekyll-scholar (= 7.2.1)
   jekyll-spaceship
   jekyll-target-blank
   jekyll-toc

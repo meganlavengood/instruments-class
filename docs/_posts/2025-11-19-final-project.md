@@ -63,7 +63,7 @@ The video will be like a first draft of your final paper. This will be an opport
 ### Video grading rubric
 
 <div class="overflow-auto">
-<table id="video-rubric" class="two-header-columns">
+<table id="video-rubric" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
 <tr class="row-1 odd">
 	<th class="column-1"></th><th class="column-2"></th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
@@ -171,7 +171,7 @@ This is a music analysis paper. Some additional requirements and guidelines:
 ### Final Paper grading rubric
 
 <div class="overflow-auto">
-	<table id="final-paper" class="two-header-columns">
+	<table id="final-paper" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
 <tr class="row-1 odd">
 	<th class="column-1"></th><th class="column-2"></th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
