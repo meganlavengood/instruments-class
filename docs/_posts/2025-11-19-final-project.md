@@ -65,7 +65,7 @@ The video will be like a first draft of your final paper. This will be an opport
 <table id="video-rubric" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
 <tr class="row-1 odd">
-	<th class="column-1"></th><th class="column-2"></th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
+	<th class="column-1">Category</th><th class="column-2">Criterion</th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -171,7 +171,7 @@ This is a music analysis paper. Some additional requirements and guidelines:
 <table id="final-paper" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
 <tr class="row-1 odd">
-	<th class="column-1"></th><th class="column-2"></th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
+	<th class="column-1">Category</th><th class="column-2">Criterion</th><th class="column-3">proficient</th><th class="column-4">basic</th><th class="column-5">poor</th>
 </tr>
 </thead>
 <tbody class="row-hover">

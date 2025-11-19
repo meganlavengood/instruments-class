@@ -241,3 +241,13 @@ ol.bibliography li {
 .overflow-auto {
 	overflow-x: auto;
 }
+
+.two-header-columns {
+	.column-1,
+	.column-2 {
+		background-color: $grey-color-dark;
+	}
+	.column-1 {
+		font-weight: bold;
+	}
+}
