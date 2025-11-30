@@ -58,7 +58,8 @@ The video will be like a first draft of your final paper. This will be an opport
 
 -   Upload your video on Teams by **{{site.final-video}}**.
 -   In the General channel, there is a folder called **final project videos**—this is where you should put your video.
--   The filename of your video should be your last name.
+-   If you have multiple files (e.g., a video and a score), please make a folder titled with your last name, and put all the files there.
+-   The filename of your video should begin with your last name.
 
 ### Video grading rubric
 
