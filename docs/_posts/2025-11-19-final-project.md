@@ -63,6 +63,8 @@ The video will be like a first draft of your final paper. This will be an opport
 
 ### Video grading rubric
 
+Feedback will be uploaded to your `homework submit` folder.
+
 <table id="video-rubric" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
 <tr class="row-1 odd">
@@ -119,6 +121,8 @@ Please don’t hesitate to provide honest feedback. **Your feedback will not im
 
 Complete the form on Teams by **{{ site.final-peer }}**.
 
+Once I've checked them, I will post the peer reviews you receive to your `homework submit` folder.
+
 ### Grading
 
 Your feedback will be graded on completion and counted as a homework grade.
@@ -168,6 +172,8 @@ This is a music analysis paper. Some additional requirements and guidelines:
 -   Please make sure I have access to all necessary material to understand your paper (video/audio clips, transcriptions, etc.).
 
 ### Final Paper grading rubric
+
+Feedback will be uploaded to your `homework submit` folder.
 
 <table id="final-paper" class="two-header-columns tablesaw tablesaw-stack" data-tablesaw-mode="stack"> 
 <thead>
